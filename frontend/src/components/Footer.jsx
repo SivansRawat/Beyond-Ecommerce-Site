@@ -29,7 +29,7 @@ const Footer = () => {
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-1 text-gray-600">
             <li>+250-784-652-570</li>
-            <li>contact@beyondyou.com</li>
+            <li>contact@katyaniyou.com</li>
           </ul>
         </div>
       </div>
@@ -37,7 +37,7 @@ const Footer = () => {
       <div>
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright 2026@ beyond.com - All Right Reserved.
+          Copyright 2026@ katyani.com - All Right Reserved.
         </p>
       </div>
     </div>
